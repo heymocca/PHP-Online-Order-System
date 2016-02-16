@@ -1,0 +1,32 @@
+.tableHeader {background-color: #999;color: #FFFFFF;font-size: 12px;font-weight: normal;text-align: left;padding-right: 3px;padding-left: 3px;padding-top: 14px;padding-bottom: 4px;margin: 0px;border-top-width: 1px;border-right-width: 0px;border-bottom-width: 1px;border-top-style:solid;border-right-style: solid;border-bottom-style: solid;border-right-color: white;border-bottom-color: #CCCCC0;border-top-color: #A4C7D9;height: 35px;font-family: ncursive;}
+.border{border-left-width: 1px;border-top-width: 1px;border-right-width: 1px;border-bottom-width: 1px;border-left-style: solid;border-top-style: solid;border-right-style: solid;border-bottom-style: solid;border-left-color: #CCCCC0;border-right-color: #CCCCC0;border-bottom-color: #CCCCC0;border-top-color: #CCCCC0;}
+.odd{background-color: #fff;font-size: 12px;height: 25px;font-family: ncursive;color: #666666;}
+.even{background-color: #FFFFFF;font-size: 12px;height: 25px;font-family: ncursive;color: #666666;}
+.link{font-size: 12px;}
+.pagerDiv{height:30px;width:100%;}
+.first{background-color: #fff;width:20px; height:13px;cursor:pointer;border:0;}
+.firstDisabled{background:url(../Images/Admin/firstPageDisabled.gif);background-color: #ffffff;width:15px; height:13px;cursor:default;border:0;}
+.last{background-color: #fff;width:20px; height:13px;cursor:pointer;border:0;}
+.lastDisabled{background-image: url(../Images/Admin/lastPageDisabled.gif);background-color:#ffffff;width:15px;height:13px;cursor:default;border:0;}
+.prev{background-color: #fff;width:20px; height:13px;cursor:pointer;border:0;}
+.prevDisabled{background-image: url(../Images/Admin/prevPageDisabled.gif);background-color: #ffffff;width:15px; height:13px;cursor:default;border:0;}
+.next{background-color: #fff;width:20px; height:13px;cursor:pointer;border:0;}
+.nextDisabled{background-image: url(../Images/Admin/nextPageDisabled.gif);background-color: #ffffff;width:15px; height:13px;cursor:default;border:0;}
+
+body {
+	color: #999;
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 12px;
+	
+}
+.submit_btn { 
+	padding: 5px 12px; 
+	text-align: center; 
+	text-decoration: none; 
+	font-weight: bold;
+	background-color: #404040; 
+	border: 1px solid #fff; 
+	color: #fff; 
+	font-size:12px; 
+	cursor: pointer;
+}
